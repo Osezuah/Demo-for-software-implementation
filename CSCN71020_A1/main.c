@@ -15,6 +15,7 @@ void main() {
 
 	printf("Enter operation number: ");
 	scanf_s("%1o", &inputNum);
+	printf("Wecome to 2023 ")
 
 	switch (inputNum)
 	{
