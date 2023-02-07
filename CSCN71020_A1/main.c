@@ -17,7 +17,7 @@ void main() {
 	scanf_s("%1o", &inputNum);
 	printf("Wecome to 2023 ");
 
-	switch (inputNum)
+		switch (inputNum)
 	{
 	case 1:
 		add();
